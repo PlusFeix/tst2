@@ -1,0 +1,47 @@
+
+/* Reset, Typography, and Basic Styling remain the same */
+
+/* Modern Navigation Bar Styling */
+.modern-header {
+    /* Sleek, sticky header with modern styling */
+}
+
+/* Fullscreen Hero Section */
+.fullscreen-hero {
+    /* Full viewport height, background images, and smooth transitions */
+}
+
+/* About Section Styling */
+.interactive-about {
+    /* Engaging grid layout with image and text interactions */
+}
+
+/* Room Showcase Styling */
+.room-showcase {
+    /* Grid or carousel with hover animations and modal popups for room details */
+}
+
+/* Booking Form Styling */
+.advanced-booking {
+    /* Stylish form elements with intuitive UX */
+}
+
+/* Contact Section Styling */
+.interactive-contact {
+    /* Interactive map and modern contact form styling */
+}
+
+/* Testimonials Carousel */
+.testimonials-carousel {
+    /* Smooth carousel with user reviews and rating display */
+}
+
+/* Footer Styling */
+.modern-footer {
+    /* Footer with social media integration, newsletter signup, and responsive design */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    /* Responsive adjustments for mobile and tablet views */
+}
